@@ -5,7 +5,7 @@ Cơ Sở Ngôn Ngữ Học – Hỗ Trợ Xử Lý Ngôn Ngữ Tiếng Việt
 
 | STT | Mã Số Sinh Viên | Họ và Tên            |
 |-----|-----------------|----------------------|
-| 1   | 123000415       | Phạm Thùy Yến Phương |
+| 1   | 123000384       | Phan Gia Huy         |
 | 2   |                 |                      |
 
 ## Mô tả dự án
